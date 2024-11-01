@@ -1,0 +1,22 @@
+.url-shortener {
+    margin-bottom: -1px;
+    padding: 10px 10px 0px 0px;
+}
+.wp-url-shortener h3{
+	text-align: left;
+    background-color: #F3F3F3;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    border-radius: 0 3px 0 0;
+}
+.wp-url-shortener .plugin{
+	display: inline-block;
+}
+.wp-url-shortener .plugins{
+	text-align: center;
+}
+.wp-url-shortener .input{
+	width: 325px;
+	border: 1px solid #ddd;
+	box-shadow: none;
+}
